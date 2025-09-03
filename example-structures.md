@@ -5,7 +5,7 @@ Some example governance structures to reference for restructuring include:
 - [Vue.js:](https://github.com/vuejs/governance/blob/master/Governance-Document.md) This is the current, pre-POSE II basis for jsPsych governance.
 - [Ubuntu](https://ubuntu.com/community/docs/governance)
 - [Harvard's 'Cyberlaw Clinic'](https://clinic.cyber.harvard.edu/wp-content/uploads/2017/03/2017-03_governance-FINAL.pdf)
-- [OSF Steering Committee Guide](https://github.com/vminojosa/governance/blob/main/Steering-Committee-Welcome-Packet.pdf)
+- [OSF Steering Committee Guide](https://drive.google.com/file/d/1JxZAf4DhJhv2YTQQi_Y0pTy8b-1VbqZM/view?usp=drive_link)
 
 ## Notes from I-Corps
 
