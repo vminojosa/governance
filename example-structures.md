@@ -46,9 +46,19 @@ Ubuntu's governance model is currently distributed bicamerally between two sides
 
 - Members Teams: Tracks and identifies participation and major contribution from specific members within the community.
     - This work is currently represented in jsPsych's contributor count repositories, as well as its more recent working dashboard.
+
+#### Technical Board
+
+- 
+
 ---
 ### Cyberlaw Clinic
+
 - This article identifies Ubuntu's governance model as "delegated governance," which is characterized by (1) authority centralized at the top and distributed down a chain of command, (2) diverse forms of community leadership, and (3) varied control over project direction, depending on how non-technical councils are selected.
+
 - States that community councils may be selected by founding team first before opening up to community-wide elections. As mentioned above, this transition can effect the pace at which project directions change with turnover in this body.
+
 ---
-### OSF
+### OSF Steering Committee
+
+- 
