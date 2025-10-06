@@ -6,6 +6,7 @@ Some example governance structures to reference for restructuring include:
 - [Ubuntu](https://ubuntu.com/community/docs/governance)
 - [Harvard's 'Cyberlaw Clinic'](https://clinic.cyber.harvard.edu/wp-content/uploads/2017/03/2017-03_governance-FINAL.pdf)
 - [OSF Steering Committee Guide](https://drive.google.com/file/d/1JxZAf4DhJhv2YTQQi_Y0pTy8b-1VbqZM/view?usp=drive_link)
+- [Cognitive Science Society](https://cognitivesciencesociety.org/strategic-plan/)
 
 ## Notes from I-Corps
 
@@ -60,5 +61,10 @@ Ubuntu's governance model is currently distributed bicamerally between two sides
 
 ---
 ### OSF Steering Committee
+
+- 
+
+---
+### Cognitive Science Society
 
 - 
