@@ -7,6 +7,7 @@
 - All grant timelines must be approved by a quorum (or unanimous?) of the executive board.
 - (will either CC or TB have any kind of mechanism for signaling disapproval or vetoing grant writing decisions? Maybe a quorum veto? or nothing...?)
 - Funding timelines will be distributed throughout the governance structure at least (review period) before the start of the next grantwriting period.
+- [Should add something here about IP decisions, since getting funding through stuff like Yale ventures would require giving the IP to an institution (e.g. Yale) to make legal decisions on behalf of the governance structure]
 
 ## Elections
 - Electing members onto executive board... (will anyone have a spot reserved?)
