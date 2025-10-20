@@ -1,5 +1,5 @@
 ## 1. Mission Statement
-The executive board's role is to set administrative priorities for the larger ecosystem. This role is primarily actualized through its power to apply for grant and determine the ecosystem's roadmap. 
+The executive board's role is to guide the development of the jsPsych open-source community, within the larger open science ecosystem. This board sets the roadmap for project development, applies for grants, and sponsors priority projects in alignment with identified areas of investment and community need.
 
 ## 2. Membership
 
@@ -40,16 +40,17 @@ Sam Mehr | Music Lab Project Lead | ...
 The executive board plays a **decisive role** in setting the funding timeline for the ecosystem. To this end, it must:
 
 - Manage the ecosystem's grant portfolio as applicants.
-- Prioritize projects in need of grant funding.
-- Review reports from the community council (CC) and technical board (TB). The board is not bound to any decisions recommended therein but will use them to identify priority projects and develop roadmaps.
+- Set the roadmap for project development.
+- Sponsor priority projects through grant funding.
+- Review reports from the community council (CC) and technical board (TB). The board is not bound to any decisions recommended therein but will use them to identify priority projects and evaluate roadmaps.
 - Tap expertise within CC and TB to support grant bids.
 - **[Should add something here about IP decisions, since getting funding through stuff like Yale ventures would require giving the IP to an institution (e.g. Yale) to make legal decisions on behalf of the governance structure]**
 
 ## 6. Responsibilities
 
-- Identify gaps and opportunities in the jsPsych open science ecosystem.
-- Nominate, evaluate, and administer new technical projects or areas of development.
-- Assess success and sustainability of current projects, as well as the ecosystem as a whole.
+- Identify gaps and opportunities in the jsPsych open-source community.
+- Nominate, evaluate, and sponsor new technical projects or areas of development.
+- Assess success and sustainability of current projects, as well as the larger community and ecosystem.
 - Collaborate with the community council (CC) and technical board (TB) leads to inform roadmap development.
 - Assist in resolving community concerns, partner disputes or conflicts of interest.
 
@@ -69,7 +70,7 @@ The executive board plays a **decisive role** in setting the funding timeline fo
 
 ## 9. Conflict Resolution
 
-The board plays an proactive role in resolving conflicts both within the board and within the broader ecosystem.
+The board plays a proactive role in resolving conflicts both within the board and within the broader ecosystem.
 
 - **Internal Conflicts:** Disagreements among committee members are addressed through respectful discussion. If unresolved, the lead will mediate via progressive stack before making a final decision.
 - **Ecosystem Disputes:** The board serves as a neutral **(Note: talk over maintaining neutrality with Josh)** advisory group to navigate disputes within the jsPsych ecosystem. Members may review cases, provide guidance, and recommend actions to project leads in alignment with ecosystem values. **(Note: will there be a publicly available Code of Conduct or Values Statement to assess/demonstrate alignment?)**
