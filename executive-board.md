@@ -21,7 +21,7 @@ Members are invited on recognition for their commitment to improving and sustain
 - Calls and chairs board sessions, and provides agendas
 - Approves all final roadmaps, budgets, and executive decisions
 - Serve as primary applicant for any grants
-- Call advisory board sessions every 6 months
+- Calls advisory board sessions every 6 months
 
 #### Assistant Director: 
 - Attend board sessions when called by the executive director
@@ -33,9 +33,9 @@ Members are invited on recognition for their commitment to improving and sustain
 Name | Role | Projects
 -----|------|-------
 Josh de Leeuw | Executive Director | jsPsych
-Josh Hartshorne | Associate Director | Pushkin, World Wide Lab
+Josh Hartshorne | Associate Director | Pushkin
 Melissa Kline | Associate Director | Children Helping Science
-Sam Mehr | Associate Director | Music Lab
+Sam Mehr | Associate Director | Music Lab, World Wide Lab
 
 ## 4. Organizational Structure
 
@@ -59,7 +59,7 @@ The executive board plays a **decisive role** in prioritizing projects for devel
 ## 6. Responsibilities
 
 - Identify gaps and opportunities in the jsPsych open-source community, as well as the larger open science ecosystem.
-- Seek out and sustain a diverse streams of revenue for jsPsych as a project and open-science ecosystem.
+- Seek out and sustain diverse streams of income for jsPsych as a project and open-science ecosystem.
 - Propose, evaluate, and sponsor new technical projects or areas for developing jsPsych.
 - Assess success and sustainability of current projects, as well as the health of the community and ecosystem.
 - Collaborate with the advisory board leads to inform project roadmaps.
