@@ -5,7 +5,7 @@ The executive board's role is to guide the development of the jsPsych open-sourc
 
 #### Composition:
 
-Board consists of 3-5 members from across project contributors and ecosystem partners. Members represent interests from a diversity of stakeholders in the jsPsych open science ecosystem. **(anything about Josh de Leeuw as board lead? that's an easy solution without articulating an election process right away, especially if Josh has been BDFL for so long)**
+Board consists of 3-5 members from across project contributors and ecosystem partners, chaired by the executive director. Members represent interests from a diversity of stakeholders in the jsPsych open science ecosystem.
 
 #### Terms:
 
