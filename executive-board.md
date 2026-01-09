@@ -11,10 +11,9 @@ Board consists of 3-5 members from across project contributors and ecosystem par
 
 - **Length of term TBD**
 - Option to continue into next consecutive term (no maximum).
-- **Membership review process TBD**
 
 #### Selection:
-Members are invited on recognition for their commitment to improving and sustaining the jsPsych ecosystem as a whole. In certain cases, the existing board may 
+Members are invited on recognition for their commitment to improving and sustaining the jsPsych ecosystem as a whole. In certain cases, the existing board may vote to approve an appointment to the executive board.
 
 ## 3. Roles & Responsibilities
 #### Executive Director: 
