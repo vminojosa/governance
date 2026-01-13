@@ -1,5 +1,5 @@
 ## 1. Mission Statement
-The executive board's role is to guide the development of the jsPsych open-source community, within the larger open science ecosystem. This board sets the roadmap for project development, supports grant applications, and sponsors priority projects in alignment with identified areas of investment and community need.
+The executive board's role is to guide the development of the jsPsych open-source community, within the larger open science ecosystem. This board sets the roadmap for project development, manages temporary and sustained modes of income, and sponsors priority projects in alignment with identified areas of investment and community need.
 
 ## 2. Membership
 
