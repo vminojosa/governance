@@ -9,8 +9,9 @@ Board consists of 3-5 members from across project contributors and ecosystem par
 
 #### Terms:
 
-- **Length of term TBD**
-- Option to continue into next consecutive term (no maximum).
+- Terms are 1 year long.
+- Members keep the option to continue into next consecutive term.
+- There are currently no term limits.
 
 #### Selection:
 Members are invited on recognition for their commitment to improving and sustaining the jsPsych ecosystem as a whole. In certain cases, the existing board may vote to approve an appointment to the executive board.
@@ -27,7 +28,7 @@ Members are invited on recognition for their commitment to improving and sustain
 - Attend board sessions when called by the executive director
 - Review and contribute to session agendas
 - Draft roadmaps and budgets
-- Maintain income streams for sustaining the project as a whole
+- Maintain income streams for sustaining the jsPsych ecosystem
 - Review insights and recommendations from the advisory board
 
 Name | Role | Projects
@@ -43,23 +44,21 @@ Sam Mehr | Associate Director | Music Lab, World Wide Lab
 **Meeting Format:** Virtual, with minutes kept for transparency. Agendas will be shared at least a week ahead of each meeting.  
 **Decision-Making:** Decisions are made by consensus. If consensus is not possible, the executive director will make a final call, with input from other members.
 
-<!-- add stuff on spending (e.g. if outside contractors are hired, fixed costs (like hosting site), direct hires vs hired through affiliated institutions), roadmapping (and make sure it's updated on an annual basis), and funding outside of grants (i.e. user fees) -->
-
 ## 5. Decision-Making Authority
 The executive board plays a **decisive role** in prioritizing projects for developing and sustaining the jsPsych ecosystem. It must:
 
 - Set the project roadmap, made available to the public.
 - Sponsor projects through the available budget.
 - Manage a transparent funding portfolio, including grants and other forms of sustained income.
-- Balance spending budget for all fixed costs and allocations through affiliate institutions.
+- Balance budget for all fixed costs and spending allocations.
 - Tap expertise where relevant within advisory board to support grant bids.
-- Hear the advisory board every 6 months. E-board is not bound to any decisions recommended by Ad-Board but will use them to evaluate the sustainability of the ecosystem, current and future projects, and budgetary concerns.
-- **Placeholder for decisions about IP, for platforms like Yale Ventures**
+- Hear the advisory board every 6 months. EBoard is not bound to any decisions recommended by AdBoard but will use them to evaluate the sustainability of the ecosystem, current and future projects, and budgetary concerns.
+- Make decisions for protecting and distributing license to jsPsych as an intellectual property.
 
 ## 6. Responsibilities
 
 - Identify gaps and opportunities in the jsPsych open-source community, as well as the larger open science ecosystem.
-- Seek out and sustain diverse streams of income for jsPsych as a project and open-science ecosystem.
+- Seek out and sustain diverse streams of income for jsPsych as a project.
 - Propose, evaluate, and sponsor new technical projects or areas for developing jsPsych.
 - Assess success and sustainability of current projects, as well as the health of the community and ecosystem.
 - Collaborate with the advisory board leads to inform project roadmaps.
@@ -81,7 +80,7 @@ The executive board plays a **decisive role** in prioritizing projects for devel
 The board plays a proactive role in resolving conflicts both within the board and within the broader ecosystem.
 
 - **Internal Conflicts:** Disagreements among board members are addressed through respectful discussion. If unresolved, the lead will mediate before making a final decision.
-- **Ecosystem Disputes:** The board serves as a neutral advisory group to navigate disputes within the jsPsych ecosystem. Members may review cases, provide guidance, and recommend actions to stakeholders in alignment with community values **(if this is going to be included, we would probably have to draft "community values")**.
+- **Ecosystem Disputes:** The board serves as a neutral advisory group to navigate disputes within the jsPsych ecosystem. Members may review cases, provide guidance, and recommend actions to stakeholders in alignment with jsPsych's [Code of Conduct](https://github.com/jspsych/jsPsych/blob/main/code-of-conduct.md).
 
 ## 10. Amendment Procedures
 
