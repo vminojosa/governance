@@ -1,42 +1,51 @@
 ## 1. Mission Statement
-The executive board's role is to guide the development of the jsPsych open-source community, within the larger open science ecosystem. This board sets the roadmap for project development, manages temporary and sustained modes of income, and sponsors priority projects in alignment with identified areas of investment and community need.
+
+The executive board's role is to guide the development of the jsPsych open-source ecosystem. 
+This board sets the roadmap for project development, manages project finances, and sponsors priority projects in alignment with identified areas of investment and community need.
 
 ## 2. Membership
 
 #### Composition:
 
-Board consists of 3-5 members from across project contributors and ecosystem partners, chaired by the executive director. Members represent interests from a diversity of stakeholders in the jsPsych open science ecosystem.
+The board consists of members from across project contributors and ecosystem partners, chaired by the executive director. 
+Members represent interests from a diversity of stakeholders in the jsPsych open science ecosystem.
 
 #### Terms:
 
-- Terms are 1 year long.
-- Members keep the option to continue into next consecutive term.
-- There are currently no term limits.
+- Terms are one year long.
+- Any member of the board may extend their term for one year.
+- There is no limit on the number of term extensions a member can take.
 
 #### Selection:
-Members are invited on recognition for their commitment to improving and sustaining the jsPsych ecosystem as a whole. In certain cases, the existing board may vote to approve an appointment to the executive board.
+
+The executive board may appoint new members with a vote.
+Selection criteria are commitment to and interest in improving and sustaining the jsPsych ecosystem.
 
 ## 3. Roles & Responsibilities
+
+All board members are expected to:
+- Attend board meetings
+- Vote on proposals before the board
+- Review recommendations from the advisory board
+
 #### Executive Director: 
-- Participates in all board responsibilities and delegates accordingly
-- Calls and chairs board sessions, and provides agendas
-- Approves all final roadmaps, budgets, and executive decisions
-- Serve as primary applicant for any grants
-- Calls advisory board sessions every 6 months
 
-#### Assistant Director: 
-- Attend board sessions when called by the executive director
-- Review and contribute to session agendas
-- Draft roadmaps and budgets
-- Maintain income streams for sustaining the jsPsych ecosystem
-- Review insights and recommendations from the advisory board
+One board member will serve as Executive Director. 
+Additional responsisbilities for the Executive Director include:
 
-Name | Role | Projects
------|------|-------
-Josh de Leeuw | Executive Director | jsPsych
-Josh Hartshorne | Associate Director | Pushkin
-Melissa Kline | Associate Director | Children Helping Science
-Sam Mehr | Associate Director | Music Lab, World Wide Lab
+- Schedule board meetings on a quarterly basis.
+- Create agendas for board meetings.
+- Chair board meetings.
+- Produce board meeting minutes, which are posted publicly after approval by the board.
+- Schedule advisory board meetings every six months.
+- Chair advisory board meetings and prepare a report for the executive board.
+
+### Current executive board members
+
+- Josh de Leeuw, Executive Director
+- Josh Hartshorne
+- Melissa Kline-Struhl
+- Sam Mehr
 
 ## 4. Organizational Structure
 
